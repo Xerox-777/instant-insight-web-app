@@ -4,7 +4,7 @@ streamlit-aggrid
 pandas
 python-pptx~=0.6.21
 openpyxl
-Pillow==9.3.0
+Pillow==13.0.0
 requests
 plotly
 yahooquery==2.3.3
